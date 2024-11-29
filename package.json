@@ -1,0 +1,21 @@
+{  
+    "name": "mycli",  
+    "version": "1.0.0",  
+    "description": "My first CLI app.",  
+    "main": "bin/index.js",  
+    "scripts": {  
+ "test": "echo "Error: no test specified" && exit 1"  
+    },  
+    "keywords": [  
+ "cli"  
+    ],  
+    "bin": {  
+ "mycli": "./bin/index.js"  
+    },  
+
+    "author": "TAC0CAT9779",  
+    "license": "ISC",  
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/TAC0CAT9779/stunning-barnacle"
+}
