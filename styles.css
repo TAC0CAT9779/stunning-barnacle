@@ -29,9 +29,12 @@ footer {
     color: #FF6347;
     width: 100%;
     position: absolute;
-    bottom: 0;
+    margin-bottom: 0;
     text-align: center;
 }
+
+#tacocat {
+    width: 375px;
 
 /*Font Families*/
 
