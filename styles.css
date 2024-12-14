@@ -6,14 +6,3 @@ h1 {
    color: OrangeRed;
 }
 
-#logo {
-    position: absolute; /* Allows precise positioning */
-    top: 10px; /* Distance from the top of the page */
-    right: 10px; /* Distance from the right edge of the page */
-}
-
-#logo img {
-    max-width: 400px; /* Adjust the size of the logo if needed */
-    height: auto; /* Maintains the aspect ratio */
-}
-
