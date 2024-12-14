@@ -1,9 +1,13 @@
+/*Text and Images*/
+
 p {
   color: #FF8C00;
+  font-family: nunito-regular;
 }
 
 h1 {
    color: OrangeRed;
+   font-family: feather-bold;
 }
 
 body {
@@ -18,4 +22,25 @@ body {
 
 #logo img {
     width: 250px;
+}
+
+footer {
+    background-color: #E6E6FA;
+    color: #FF6347;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+
+/*Font Families*/
+
+@font-face {
+    font-family: feather-bold;
+    src: url('fonts/feather-bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: nunito-regular;
+    src: url('fonts/nunito-regular.ttf') format('truetype');
 }
