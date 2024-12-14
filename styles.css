@@ -6,3 +6,16 @@ h1 {
    color: OrangeRed;
 }
 
+body {
+    position: relative; /* Makes the body the reference point */
+}
+
+#logo {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+#logo img {
+    width: 250px;
+}
