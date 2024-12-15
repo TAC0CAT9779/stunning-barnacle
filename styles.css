@@ -3,7 +3,7 @@
 p {
   color: #FF8C00;
   font-family: nunito-regular;
-  font-size: 25px;
+  font-size: 24px;
 }
 
 h1 {
@@ -37,7 +37,7 @@ footer {
 
 #tacocat {
     width: 375px;
-    border: 5px solid DeepPink;
+    border: 10px solid DeepPink;
 }
 
 /*Font Families*/
