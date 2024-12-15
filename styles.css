@@ -3,11 +3,13 @@
 p {
   color: #FF8C00;
   font-family: nunito-regular;
+  font-size: 25px;
 }
 
 h1 {
    color: OrangeRed;
    font-family: feather-bold;
+   font-size: 40px;
 }
 
 body {
@@ -35,6 +37,7 @@ footer {
 
 #tacocat {
     width: 375px;
+    border: 5px solid DeepPink;
 }
 
 /*Font Families*/
