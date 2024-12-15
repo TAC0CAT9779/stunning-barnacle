@@ -1,5 +1,6 @@
 
 # my website :neckbeard:
+These notes are just for me to remember things. None of this is important to you.
 ```
 git commit -am "add note here"
 ```
